@@ -150,3 +150,5 @@ http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14094
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14084
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|ES| Teledeporte" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tve_teledeporte.png" group-title="ES : Sport",|ES| Teledeporte
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14098
+#EXTINF:-1 tvg-id="JEMRTV.hn@HD",JEMR TV (1080p) [Geo-blocked]
+https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
